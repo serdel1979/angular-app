@@ -27,7 +27,6 @@ export class PorPaisComponent implements OnInit {
       this.hayError = true;
       this.paises = [];
     }));
-    console.log(this.paises);
   }
 
 }
